@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+
+@theme {
+  --color-*: initial;
+  --color-background-100: #efeefe;
+  --color-background-200: #cfcefb;
+  --color-background-300: #ffffff;
+  --color-background-400: #e8e9eb;
+  --color-background-500: #7263ec;
+  --color-text-100: #000000;
+  --color-text-200: #848485;
+  --color-text-300: #4c48be;
+  --color-text-400: #ffffff;
+  --color-border-100: #cfcefb;
+} 
+
+.swiper {
+  width: 90%;
+}
+
+.swiper-wrapper {
+  margin: 64px;
+}
